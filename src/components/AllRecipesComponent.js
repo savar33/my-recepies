@@ -1,10 +1,10 @@
 import React from 'react';
 
-function RecipeDetails(props) {
+function AllRecipesComponent(props) {
     return (
         <>
         </>
     );
 }
 
-export default RecipeDetails;
+export default AllRecipesComponent;
